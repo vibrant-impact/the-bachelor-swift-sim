@@ -3,6 +3,7 @@
   <br>
   <img src="preview.png" width="100%" alt="Simulation Preview">
 </p>
+
 # 🌹 The Bachelor: Logic & State Simulation (Swift)
 
 A dynamic command-line simulation built in Swift that manages contestant data, affection levels, and randomized episode events. This project was designed to demonstrate core programming concepts through a fun, pop-culture lens.
