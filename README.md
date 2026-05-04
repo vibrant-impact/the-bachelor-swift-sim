@@ -1,7 +1,7 @@
 <p align="center">
   <img src="bachelorBanner.png" width="100%" alt="The Bachelor Banner">
   <br>
-  <img src="preview.png" width="100%" alt="Simulation Preview">
+  <img src="consolePreview.png" width="100%" alt="Simulation Preview">
 </p>
 
 # 🌹 The Bachelor: Logic & State Simulation (Swift)
